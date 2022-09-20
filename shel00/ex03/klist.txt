@@ -1,0 +1,5 @@
+Credentials cache: API:5117F6CD-9128-4F84-A075-BC72B9E8F5B2
+        Principal: nnemeth@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Aug 31 10:02:43 2021  Aug 31 20:02:43 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
